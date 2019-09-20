@@ -1,3 +1,3 @@
 function querySelector(slector) {
-  return document.querySelector('div')
+  return document.querySelector(selector);
 }
